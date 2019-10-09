@@ -1,0 +1,1 @@
+this software was written to help and draw over a selected image
